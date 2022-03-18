@@ -300,6 +300,7 @@ The results for the second mode (question answering over entire books or movie s
 |Retriever + Reader (Izacard and Grave, 2020)     |35.3    |7.5  | 11.1 | 32.0   |[Distilling Knowledge from Reader to Retriever for Question Answering](https://openreview.net/forum?id=NTEz-6wysdb)       |  [Official](https://github.com/facebookresearch/FiD)    |
 |Summary + Reader (UnifiedQA) (Wu et al., 2021)    |21.82    |3.87  | 10.52 | 21.03  |[Recursively Summarizing Books with Human Feedback](https://arxiv.org/abs/2109.10862)       |      |
 |ReadTwice (Zemlyanskiy et al., 2021)     |21.1    |4.0  | 7.0 | 23.2  |[ReadTwice: Reading Very Large Documents with Memories](https://aclanthology.org/2021.naacl-main.408.pdf) | [Official](https://github.com/google-research/google-research/tree/master/readtwice) |
+|BookQA (Mou et al., 2021)     |29.56    |6.11  | 10.03 | 27.91  |[Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study](https://aclanthology.org/2021.tacl-1.61.pdf) | [Official](https://github.com/moutaigua8183/BookQA) |
 
 ### DuoRC
 
